@@ -35,7 +35,7 @@ Este sitio utiliza Jekyll para generar un curriculum vitae profesional y persona
 
 ## Instalación y Uso
 
-### Prerequisitos
+### Prerrequisitos
 
 - Ruby (versión 2.7 o superior)
 - Bundler

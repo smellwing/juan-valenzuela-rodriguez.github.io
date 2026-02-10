@@ -31,7 +31,7 @@ title: Contacto
 {% endif %}
 
 {% if site.data.personal.github %}
-**GitHub**: [@juanvalenzuelarodriguez]({{ site.data.personal.github }})
+**GitHub**: [Ver perfil]({{ site.data.personal.github }})
 {% endif %}
 
 ---
