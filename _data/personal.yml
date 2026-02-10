@@ -2,13 +2,10 @@ name: "Juan Esteban Valenzuela Rodriguez"
 job_title: "Ingeniero Civil en Computacion mencion Informatica"
 subtitle: "Full-Stack Developer"
 email: "juan.esteban.valenzuela@gmail.com"
-phone: "+56 9 98115373"
 location:
-  city: "Santiago Centro"
+  city: "Santiago"
   region: "Region Metropolitana"
   country: "Chile"
-  full_address: "Tarapaca 1324 Dp. 2416"
-
 social:
   linkedin: "juanestebanvalenzuela"
   github: "juan-valenzuela-rodriguez"
@@ -31,7 +28,7 @@ languages:
     level: "Competencia Profesional Basica (TOEIC 690)"
 
 availability:
-  status: "En busca de empleo"
+  status: "Con empleo, en busca de proyectos cortos de freelancer"
   roles:
     - "Desarrollador Web"
     - "Jefe de Operaciones"
