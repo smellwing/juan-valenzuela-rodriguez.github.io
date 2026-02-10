@@ -370,14 +370,6 @@ git push origin test-changes
 
 ## ❓ FAQ
 
-### ¿Puedo volver al HTML original?
-
-Sí, el archivo original está en `index.html.old`:
-```bash
-mv index.html.old index.html
-rm index.md
-```
-
 ### ¿Cómo agrego una foto?
 
 1. Sube imagen a `assets/images/profile.jpg`
